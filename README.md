@@ -21,17 +21,15 @@ B. Step-2
     5. Zip file will be downloaded
     6. Extract and import in to STS
     7. Done
-    
-    
-    
+        
     
     Bullet Points
     =============
      1. By default Spring boot has embedded web servers(Tomcat, Jetty, Undertow..). Tomcat is by default and it is part of the below        dependency
-          <dependency>
-			        <groupId>org.springframework.boot</groupId>
-			        <artifactId>spring-boot-starter-web</artifactId>
-		      </dependency>
+          		<dependency>
+			     <groupId>org.springframework.boot</groupId>
+			     <artifactId>spring-boot-starter-web</artifactId>
+		      	</dependency>
      
      2. If we want to use Jetty as a web server, here are the changes to be done in pom.xml
             <dependency>
