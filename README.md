@@ -49,12 +49,13 @@ B. Step-2
               <artifactId>spring-boot-starter-jetty</artifactId>
             </dependency>
      
-     3. Use the below link to configure other web servers:
+     3. how to deploy Spring Boot in JBoss app server. Look at the below video.
+     	https://www.youtube.com/watch?v=92ceKwUZoA0
+     
+     4. Use the below link to configure other web servers:
           https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/howto-embedded-web-servers.html
           
-                 
-          
-    2. Website Links
+     5. Website Links
         http://pretius.com/deploying-multiple-spring-boot-applications-to-single-application-server/
         https://stackoverflow.com/questions/34506712/how-to-deploy-spring-boot-web-application-on-tomcat-server
         
