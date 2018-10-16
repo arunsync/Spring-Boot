@@ -58,5 +58,8 @@ B. Step-2
      5. Website Links
         http://pretius.com/deploying-multiple-spring-boot-applications-to-single-application-server/
         https://stackoverflow.com/questions/34506712/how-to-deploy-spring-boot-web-application-on-tomcat-server
+     
+     6. Changing server default port
+     	https://howtodoinjava.com/spring-boot/change-server-default-port/
         
       
