@@ -31,7 +31,7 @@ B. Step-2
 			     <artifactId>spring-boot-starter-web</artifactId>
 		      	</dependency>
      
-     2. If we want to use Jetty as a web server, here are the changes to be done in pom.xml
+     2. If we want to use Jetty(Inbuid) as a web server, here are the changes to be done in pom.xml
             <dependency>
               <groupId>org.springframework.boot</groupId>
               <artifactId>spring-boot-starter-web</artifactId>
@@ -49,8 +49,8 @@ B. Step-2
               <artifactId>spring-boot-starter-jetty</artifactId>
             </dependency>
      
-     3. how to deploy Spring Boot in JBoss app server. Look at the below video.
-     	https://www.youtube.com/watch?v=92ceKwUZoA0
+     3. Deploying it to external Tomcat/JBoss servers
+     		https://www.youtube.com/watch?v=92ceKwUZoA0
      
      4. Use the below link to configure other web servers:
           https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/html/howto-embedded-web-servers.html
